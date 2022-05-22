@@ -1,0 +1,1 @@
+/home/kevin/Documents/practice/rust/algorithms_and_data_structures/sorting/insertion/target/debug/insertion_sort: /home/kevin/Documents/practice/rust/algorithms_and_data_structures/sorting/insertion/src/main.rs
