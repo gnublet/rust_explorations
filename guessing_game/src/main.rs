@@ -13,7 +13,7 @@ struct Args {
     #[clap(short, long, default_value_t = 0)]
     start: u32,
 
-    /// Number of times to greet
+    /// Upper bound
     #[clap(short, long, default_value_t = 100)]
     end: u32,
 }
