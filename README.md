@@ -30,3 +30,6 @@ cargo new --vcs=none my-new-project
 - Search (on all types of data structures)
 - Sorting
 - Traversal (on all types of data structures)
+
+## development
+I found it useful to remove the inlay hints after a closing brace in rust-analyzer for VS Code.
